@@ -110,14 +110,14 @@ body {
 
 /* Hero */
 .hero {
-  backgrbackground("Hero.png") center/cover no-repeat;
-  height: 30vh;
+  background: url("Hero.png") center/cover no-repeat;
+  height: 60vh;
   display: flex;
   align-items: center;
   justify-content: center;
   text-align: center;
   padding: 20px;
-  color: black;
+  color: var;
 }
 
 .hero-content {
