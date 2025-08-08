@@ -110,7 +110,7 @@ body {
 
 /* Hero */
 .hero {
-  background: url("hero.png") center/cover no-repeat;
+  background: url(Hero.png") center/cover no-repeat;
   height: 30vh;
   display: flex;
   align-items: center;
