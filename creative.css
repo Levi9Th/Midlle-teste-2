@@ -110,7 +110,7 @@ body {
 
 /* Hero */
 .hero {
-  backgrbackground"Hero.png") center/cover no-repeat;
+  backgrbackground("Hero.png") center/cover no-repeat;
   height: 30vh;
   display: flex;
   align-items: center;
