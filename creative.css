@@ -117,7 +117,7 @@ body {
   justify-content: center;
   text-align: center;
   padding: 20px;
-  color: var;
+  color: var(--cor-primaria);
 }
 
 .hero-content {
